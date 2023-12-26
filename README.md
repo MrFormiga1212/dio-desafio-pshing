@@ -7,9 +7,9 @@
 
 - Entrar como root no terminal sudo su (é necessário entrar com suas credenciais do sistema)
 - Iniciar o setoolkit, digitando  "setoolkit"
-- Selecionar o tipo de ataque: Social-Engineering Attacks** (opção: 1)**
+- Selecionar o tipo de ataque: Social-Engineering Attacks **(opção: 1)**
 - Selecionar vetor de ataque: Web Site Attack Vectors **(opção: 2)**
-- Selecionar método de ataque: Credential Harverster Atack Method** (opção: 3)**
+- Selecionar método de ataque: Credential Harverster Atack Method **(opção: 3)**
 - Selecionar o meio utilizado: Web templates(*Foi utilizado o templates por conflito com o clone). **(opção: 1)**
 - Obter o endereço do site fake: É sugerido o ip local, então basta dar enter
 - Selecionei o template do google **(opção: 2)**
