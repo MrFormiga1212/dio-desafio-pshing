@@ -13,8 +13,13 @@
 - Selecionar o meio utilizado: Web templates(*Foi utilizado o templates por conflito com o clone). **(opção: 1)**
 - Obter o endereço do site fake: É sugerido o ip local, então basta dar enter
 - Selecionei o template do google **(opção: 2)**
-- Site "fake"
+- 
+### Site "fake"
+
 ![image](https://github.com/MrFormiga1212/dio-desafio-pshing/assets/77303268/bf37552f-5d1b-43ab-bef5-3f5062130312)
-- resultado obtido
+
+
+###resultado obtido
+
 ![image](https://github.com/MrFormiga1212/dio-desafio-pshing/assets/77303268/a68f3f1c-003e-47ca-b4d6-544166efb30a)
 
