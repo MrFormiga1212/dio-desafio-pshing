@@ -11,7 +11,7 @@
 - Selecionar vetor de ataque: Web Site Attack Vectors. **(opção: 2)**
 - Selecionar método de ataque: Credential Harverster Atack Method. **(opção: 3)**
 - Selecionar o meio utilizado: Web templates(*Foi utilizado o templates por conflito com o clone). **(opção: 1)**
-- Obter o endereço do site fake: É sugerido o ip local, então basta dar enter
+- Obter o endereço do site fake: É sugerido o ip local, então basta precionar o Enter de seu teclado.
 - Selecionei o template do google. **(opção: 2)**
 - 
 ### Site "fake"
